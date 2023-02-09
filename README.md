@@ -4,7 +4,7 @@
 
 When realising that three of my extended family's birthdays fell within 4 days of each other, it reminded me of a famous probability problem. I decided to knock out a quick program in Python to plot both the experimental and theoretical probabilities for this on the same graphs and share it with them.  
 
-<u>The Problem</u>
+<ins>The Problem</ins>
 
 How many people need to be standing in the same room in order for it to be more likely that 2 people will share a birthday?
 
