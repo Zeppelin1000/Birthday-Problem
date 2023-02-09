@@ -12,6 +12,8 @@ Most people think this is more than it actually is and the actual number for thi
 
 Run the Birthday.ipynb file in this respoistory to see a graph of the experimental probability compared with the theoretical probability to see the results.
 
+https://github.com/Zeppelin1000/Birthday-Problem/blob/main/Birthday.ipynb
+
 To see more on this problem, please see https://en.wikipedia.org/wiki/Birthday_problem
 
 Having done a project on the FreeCodecamp involving experimental probability drawing coloured balls from a hat, I was interested to try and apply this in other scenarios.  It is very quick to implement as you will see from the code in Birthday.ipynb.
