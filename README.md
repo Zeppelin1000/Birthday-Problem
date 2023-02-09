@@ -1,6 +1,6 @@
 # <u>The Birthday Problem</u>
 
-##Draws Experimental and Theoretical Graphs on the Birthday Problem
+## Draws Experimental and Theoretical Graphs on the Birthday Problem
 
 When realising that three of my extended family's birthdays fell within 4 days of each other, it reminded me of a famous probability problem. I decided to knock out a quick program in Python to plot both the experimental and theoretical probabilities for this on the same graphs and share it with them.  
 
