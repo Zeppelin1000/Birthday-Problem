@@ -8,7 +8,7 @@ When realising that three of my extended family's birthdays fell within 4 days o
 
 How many people need to be standing in the same room in order for it to be more likely that 2 people will share a birthday?
 
-Most people think the answer to this problem is far greater it actually is. The actual number for this to be true is ONLY 23.  If 23 people are standing in a room then the probability that at least 2 will share the same birthday is in fact 0.507. i.e greater than a half and odds-on.
+Most people think the answer to this problem is far greater than it actually is. The actual number for this to be true is ONLY 23.  If 23 people are standing in a room then the probability that at least 2 will share the same birthday is in fact 0.507. i.e greater than a half and odds-on.
 
 Run the Birthday.ipynb file in this respoistory to see a graph of the experimental probability compared with the theoretical probability to see the results.
 
